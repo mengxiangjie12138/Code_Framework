@@ -1,0 +1,18 @@
+               precision    recall  f1-score   support
+
+      Babesia     0.9990    0.9770    0.9879      1000
+     LiShiMan     0.9858    0.9690    0.9773      1000
+      Malaria     0.9966    0.8840    0.9369      1000
+   maodichong     0.8925    0.9960    0.9414      1000
+      RB Cell     0.9921    0.9990    0.9955      1000
+   Toxoplasma     0.9940    0.9950    0.9945      1000
+   White Cell     0.9881    0.9960    0.9920      1000
+ZhuiXingChong     0.9804    1.0000    0.9901      1000
+
+     accuracy                         0.9770      8000
+    macro avg     0.9785    0.9770    0.9770      8000
+ weighted avg     0.9785    0.9770    0.9770      8000
+
+
+accuracy	precision	recall	f1-score
+0.977	0.9785	0.977	0.9769

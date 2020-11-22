@@ -1,0 +1,14 @@
+              precision    recall  f1-score   support
+
+     Babesia     1.0000    0.9880    0.9940      1000
+     Malaria     0.9956    0.9090    0.9503      1000
+     RB Cell     0.9132    0.9990    0.9542      1000
+  White Cell     0.9940    0.9990    0.9965      1000
+
+    accuracy                         0.9738      4000
+   macro avg     0.9757    0.9738    0.9737      4000
+weighted avg     0.9757    0.9738    0.9737      4000
+
+
+accuracy	precision	recall	f1-score
+0.9737	0.9757	0.9737	0.9737

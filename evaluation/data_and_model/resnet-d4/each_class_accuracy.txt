@@ -1,0 +1,4 @@
+Babesia	0.988
+Malaria	0.909
+RB Cell	0.999
+White Cell	0.999

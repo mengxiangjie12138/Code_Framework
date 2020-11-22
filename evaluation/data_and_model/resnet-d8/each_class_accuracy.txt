@@ -1,0 +1,8 @@
+Babesia	0.977
+LiShiMan	0.969
+Malaria	0.884
+maodichong	0.996
+RB Cell	0.999
+Toxoplasma	0.995
+White Cell	0.996
+ZhuiXingChong	1.0

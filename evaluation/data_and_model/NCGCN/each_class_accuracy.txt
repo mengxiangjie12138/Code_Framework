@@ -1,0 +1,12 @@
+gametocyte	0.97
+
+leukocyte	1.0
+
+red_blood_cell	1.0
+
+ring	0.85
+
+schizont	0.86
+
+trophozoite	0.97
+

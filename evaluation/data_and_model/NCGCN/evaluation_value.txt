@@ -1,0 +1,18 @@
+                precision    recall  f1-score   support
+
+    gametocyte     1.0000    0.9700    0.9848       100
+     leukocyte     1.0000    1.0000    1.0000       100
+red_blood_cell     0.9091    1.0000    0.9524       100
+          ring     1.0000    0.8500    0.9189       100
+      schizont     0.9663    0.8600    0.9101       100
+   trophozoite     0.8151    0.9700    0.8858       100
+
+      accuracy                         0.9417       600
+     macro avg     0.9484    0.9417    0.9420       600
+  weighted avg     0.9484    0.9417    0.9420       600
+
+
+
+accuracy	precision	recall	f1-score
+
+0.9416	0.9484	0.9416	0.9419
